@@ -1,0 +1,8 @@
+name: notebook
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - h5py==3.9.0
+
+prefix: /srv/conda/envs/notebook
