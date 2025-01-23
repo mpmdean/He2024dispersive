@@ -16,7 +16,7 @@ Work with this by installing `docker <https://www.docker.com/>`_ and pip and the
 .. code-block:: bash
 
        pip install jupyter-repo2docker
-       jupyter-repo2docker --editable .
+       jupyter-repo2docker  --editable --Repo2Docker.platform=linux/amd64 .
 
 Change `tree` to `lab` in the URL for JupyterLab.
 
