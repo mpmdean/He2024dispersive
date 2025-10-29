@@ -6,7 +6,8 @@ Source code and data files for the manuscript. Execute plot.ipynb to view the da
 How to cite
 -----------
 If this data is used, please cite W. He, J. Sears, F. Barantani, T. Kim, J. W. Villanova, T. Berlijn, M. Lajer, M. A.
-McGuire, J. Pelliciari, V. Bisogni, S. Johnston, E. Baldini, M. Mitrano, and M. P. M. Dean, accepted in Phys. Rev. X (2025)
+McGuire, J. Pelliciari, V. Bisogni, S. Johnston, E. Baldini, M. Mitrano, and M. P. M. Dean, Phys. Rev. X 15, 011042 (2025)
+(2025)
 
 Run locally
 -----------
